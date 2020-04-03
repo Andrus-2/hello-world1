@@ -1,2 +1,4 @@
 # hello-world1
-trying one more time
+
+Tom here, trying to get my head around coding again after years off
+Any sugestions feel free to hit me.
